@@ -1,2 +1,5 @@
 ## RTduino
-RTduino项目是[RT-Thread实时操作系统](https://github.com/RT-Thread/rt-thread)的Arduino生态兼容层，是RT-Thread社区的下游子社区。
+
+![RTduino](profile/logo/RTduino.png)
+
+RTduino is the Arduino ecosystem compatibility layer for [RT-Thread RTOS](https://www.rt-thread.io). RTduino is the sub-community of [RT-Thread community](https://github.com/RT-Thread/rt-thread) and the downstream project of Arduino. RTduino is an open source project which is compatible with Arduino APIs so that RT-Thread beginners can easily get start to use RT-Thread through Arduino APIs, which significantly reduces the difficulty of learning RT-Thread. Meanwhile, RT-Thread users also can directly run thousands of [Arduino third party libraries](https://www.arduino.cc/reference/en/libraries/) on RT-Thread by using RTduino.
